@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676795034044",
+    "project_id": "eb-bus",
+    "storage_bucket": "eb-bus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676795034044:android:2e7b94ac811f65f65ee3b9",
+        "android_client_info": {
+          "package_name": "group8.pear.ebbus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAF089wxzAYUxmGEo2qHYgpdvXRs8uRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
